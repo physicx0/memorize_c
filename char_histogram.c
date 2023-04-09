@@ -2,7 +2,7 @@
  * 
  *
  *
- *      25 pages informations in C prgramming language second edition
+ *      25 pages informations in C programming language second edition
  *
  *
  *
